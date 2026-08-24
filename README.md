@@ -1,3 +1,6 @@
+<img width="1291" height="1015" alt="image" src="https://github.com/user-attachments/assets/39ed1d95-db67-44b2-bfa7-0f61d753853c" />
+
+
 # PCME-RAM
 
 ## Phonon-Coupled Magnetoelectric RAM
