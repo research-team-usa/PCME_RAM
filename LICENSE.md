@@ -132,4 +132,7 @@ Notwithstanding any other provision of this License, the Licensee expressly may 
 
 ---
 
+<img width="241" height="46" alt="image" src="https://github.com/user-attachments/assets/285526f8-c45c-4494-ac59-ae5396c5cff1" />
+
+
 © 2026 Emanuel Schaaf. All rights reserved under this License.
