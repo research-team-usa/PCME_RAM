@@ -19,7 +19,7 @@ Scientific Research Whitepaper, Concept Architecture, and Preliminary Modeling F
 - [TRL Roadmap](docs/09_TRL_Roadmap.md)
 - [Modeling Framework](docs/10_Modeling_Framework.md)
 - [License](LICENSE.md)
-- Contakt
+- [Contakt](Contact.md)
 
 ## Classification
 
