@@ -26,7 +26,7 @@ Scientific Research Whitepaper, Concept Architecture, and Preliminary Modeling F
 
 ---
 
-[The Complete Dossier (PDF)]()
+[The Complete Dossier (PDF)](PCME-RAM_Phonon-Coupled_Magnetoelectric_RAM.pdf)
 
 ---
 
