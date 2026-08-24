@@ -29,6 +29,9 @@ Scientific Research Whitepaper, Concept Architecture, and Preliminary Modeling F
 [The Complete Dossier (PDF)](PCME-RAM_Phonon-Coupled_Magnetoelectric_RAM.pdf)
 
 ---
+[Watch the video here](https://drive.google.com/file/d/1JqtMRL5YQc7CGsfYd8YkKrg6uHH4e0q4/view?usp=sharing)
+
+---
 
 ## Classification
 
