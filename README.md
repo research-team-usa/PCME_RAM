@@ -24,6 +24,12 @@ Scientific Research Whitepaper, Concept Architecture, and Preliminary Modeling F
 - [License](LICENSE.md)
 - [Contakt](Contact.md)
 
+---
+
+[The Complete Dossier (PDF)]()
+
+---
+
 ## Classification
 
 |**Category**|**Status**|
