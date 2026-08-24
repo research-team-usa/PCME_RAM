@@ -6,7 +6,7 @@
 Research Modeling and Feasibility Framework (OOA-SIM-V1)
 
 **Scientific Disclaimer regarding the Simulation:**
-The attached script `OOA-SIM-V1` serves strictly as a visualization and feasibility framework for initial parameter studies. The implemented mathematical approximations (e.g., the sigmoid function representing LLG dynamics or the simplified exponential attenuation model) are intended for the conceptual demonstration of architectural targets. **They do not replace fully coupled, physical solvers such as Micromagnetics (OOMMF/MuMax3), Acoustic FDTD, or comprehensive thermal FEM simulations.**
+The attached script [OOA-SIM-V1](Python/OOA-SIM-V1.py) serves strictly as a visualization and feasibility framework for initial parameter studies. The implemented mathematical approximations (e.g., the sigmoid function representing LLG dynamics or the simplified exponential attenuation model) are intended for the conceptual demonstration of architectural targets. **They do not replace fully coupled, physical solvers such as Micromagnetics (OOMMF/MuMax3), Acoustic FDTD, or comprehensive thermal FEM simulations.**
 
 ```python
 # Lead Architect: Emanuel Schaaf
