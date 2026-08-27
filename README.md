@@ -31,6 +31,7 @@ Scientific Research Whitepaper, Concept Architecture, and Preliminary Modeling F
 
 ### 🚀 Architecture Expansion V2.0
 <img width="4765" height="1778" alt="PCME_RAM_V2_Simulation" src="https://github.com/user-attachments/assets/c5604d6a-031d-4b64-95fd-3a508bea734d" />
+
 [PCME-RAM_V2.0_Phased-Array_Acoustic_Beamforming_&_Pre-Biasing](PCME-RAM_V2.0_Phased-Array_Acoustic_Beamforming_&_Pre-Biasing.pdf)
 
 **Update Overview:** 
