@@ -1,6 +1,6 @@
 # PCME-RAM Open-Source License (PCME-RAM-OSL)
 
-Version: 1.0  
+Version: V1.0, V2.0 
 Effective Date: August 24, 2026  
 
 Project Lead: Emanuel Schaaf  
